@@ -1,5 +1,5 @@
 # task2
-EDA Summary Write-up 
+**EDA Summary Write-up **
 
 Findings:
 
